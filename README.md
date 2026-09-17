@@ -10,7 +10,7 @@ single-cell genomics and computational tools to understand disease-related molec
 mechanisms in the nervous system.
 
 My current work focuses on **single-cell transcriptomics** of neurodevelopmental and disease
-models, with growing interests in cancer pharmacogenomics** and **molecular docking.
+models, with growing interests in cancer pharmacogenomics and molecular docking.
 
 🔬 Research Interests
 
