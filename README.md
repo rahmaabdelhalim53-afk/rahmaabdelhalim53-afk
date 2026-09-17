@@ -1,6 +1,8 @@
 Rahma Abdelhalim
-Molecular Biology & Bioinformatics Researcher**
-Single-Cell Genomics | Computational Neuroscience | Cancer Biology**
+
+Molecular Biology & Bioinformatics Researcher 
+
+Single-Cell Genomics | Computational Neuroscience | Cancer Biology
 
 I'm a biotechnology graduate (Pre-MSc, Cairo University) with research experience spanning
 molecular biology, cancer biology, and transcriptomic analysis. I'm interested in using
