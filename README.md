@@ -46,7 +46,7 @@ Other: Statistical analysis · Data visualization
 # 🎯 Current Focus
 
 I'm currently developing reproducible single-cell analysis workflows for neurodevelopmental
-disease models, and building foundational skills in molecular docking (PyMOL).
+disease models, and building foundational skills in molecular docking.
 
 # 📫 Connect With Me
 
