@@ -1,6 +1,6 @@
-Rahma Abdelhalim
+# Rahma Abdelhalim
 
-Molecular Biology & Bioinformatics Researcher 
+## Molecular Biology & Bioinformatics Researcher 
 
 Single-Cell Genomics | Computational Neuroscience | Cancer Biology
 
