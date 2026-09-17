@@ -1,6 +1,6 @@
 # Rahma Abdelhalim
 
-## Molecular Biology & Bioinformatics Researcher 
+Molecular Biology & Bioinformatics Researcher 
 
 Single-Cell Genomics | Computational Neuroscience | Cancer Biology
 
@@ -12,14 +12,14 @@ mechanisms in the nervous system.
 My current work focuses on single-cell transcriptomics** of neurodevelopmental and disease
 models, with growing interests in cancer pharmacogenomics and molecular docking.
 
-🔬 Research Interests
+# 🔬 Research Interests
 
 - Computational neuroscience
 - Molecular biology & cancer biology
 - Single-cell genomics (scRNA-seq)
 
 
-🧬 Selected Research Projects
+# 🧬 Selected Research Projects
 
 Single-Cell Transcriptomic Analysis of Neurodevelopmental and Disease Models
 
@@ -33,7 +33,7 @@ ERα–SERD Structural & Pharmacogenomic Investigation
 investigating treatment-associated molecular changes.
 Tools:R · Transcriptomics · Pharmacogenomics
 
-🛠 Technical Toolkit
+# 🛠 Technical Toolkit
 
 Programming: R · Python (basic) · Linux/Bash (basic)
 
@@ -43,13 +43,13 @@ Molecular Biology: PCR · qPCR · DNA/RNA extraction · Gel electrophoresis · C
 
 Other: Statistical analysis · Data visualization
 
-🎯 Current Focus
+# 🎯 Current Focus
 
 I'm currently developing reproducible single-cell analysis workflows for neurodevelopmental
 disease models, and building foundational skills in molecular docking (PyMOL).
 
-📫 Connect With Me
+# 📫 Connect With Me
 
 LinkedIn: Rahma Abdelhalim
 Email: rahmaabdelhalim53@gmail.com
-ORCID: https://orcid.org/0009-0007-8689-1850
+
