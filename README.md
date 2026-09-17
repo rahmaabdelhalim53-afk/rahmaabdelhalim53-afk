@@ -9,7 +9,7 @@ molecular biology, cancer biology, and transcriptomic analysis. I'm interested i
 single-cell genomics and computational tools to understand disease-related molecular
 mechanisms in the nervous system.
 
-My current work focuses on single-cell transcriptomics** of neurodevelopmental and disease
+My current work focuses on single-cell transcriptomics of neurodevelopmental and disease
 models, with growing interests in cancer pharmacogenomics and molecular docking.
 
 # 🔬 Research Interests
