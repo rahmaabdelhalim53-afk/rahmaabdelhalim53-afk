@@ -50,6 +50,6 @@ disease models, and building foundational skills in molecular docking.
 
 # 📫 Connect With Me
 
-LinkedIn: Rahma Abdelhalim
+LinkedIn: Rahma Abdelhalim.
 Email: rahmaabdelhalim53@gmail.com
 
