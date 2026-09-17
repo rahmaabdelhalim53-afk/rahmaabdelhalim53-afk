@@ -14,9 +14,10 @@ models, with growing interests in cancer pharmacogenomics and molecular docking.
 
 🔬 Research Interests
 
+- Computational neuroscience
 - Molecular biology & cancer biology
 - Single-cell genomics (scRNA-seq)
-- Computational neuroscience
+
 
 🧬 Selected Research Projects
 
