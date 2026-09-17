@@ -9,7 +9,7 @@ molecular biology, cancer biology, and transcriptomic analysis. I'm interested i
 single-cell genomics and computational tools to understand disease-related molecular
 mechanisms in the nervous system.
 
-My current work focuses on **single-cell transcriptomics** of neurodevelopmental and disease
+My current work focuses on single-cell transcriptomics** of neurodevelopmental and disease
 models, with growing interests in cancer pharmacogenomics and molecular docking.
 
 🔬 Research Interests
@@ -22,14 +22,16 @@ models, with growing interests in cancer pharmacogenomics and molecular docking.
 🧬 Selected Research Projects
 
 Single-Cell Transcriptomic Analysis of Neurodevelopmental and Disease Models
-Analyzing 200,000+ cells from NDG and ASD models in Seurat v5, including QC, SCTransform,
-dimensionality reduction, clustering, and RPCA-based integration.
-**Tools:** R · Seurat v5 · SCTransform · RPCA
 
-ERα–SERD Structural & Pharmacogenomic Investigation**
-R-based transcriptomic and genomic analysis of ESR1-mutant ER-positive breast cancer,
+> Analyzing 200,000+ cells from NDG and ASD models in Seurat v5, including QC, SCTransform,
+dimensionality reduction, clustering, and RPCA-based integration.
+**Tools:** R · Seurat v5 · SCTransform · RPCA 
+
+ERα–SERD Structural & Pharmacogenomic Investigation
+
+> R-based transcriptomic and genomic analysis of ESR1-mutant ER-positive breast cancer,
 investigating treatment-associated molecular changes.
-**Tools:** R · Transcriptomics · Pharmacogenomics
+Tools:R · Transcriptomics · Pharmacogenomics
 
 🛠 Technical Toolkit
 
