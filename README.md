@@ -26,15 +26,16 @@ My current work focuses on single-cell transcriptomics of glioblastoma and cereb
 
 Analyzing public single-cell transcriptomic datasets comprising more than 200,000 cells, with a focus on cellular heterogeneity and disease-associated transcriptional patterns.
 
-**Analysis workflow:**
+**Analysis Workflow:**
+
 - Metadata validation and cell-level quality control
 - SCTransform normalization
 - Dimensionality reduction and UMAP visualization
 - Graph-based clustering
-- RPCA-based dataset integration
+- Harmony-based batch correction
 - Marker-gene analysis and preliminary cell-type annotation
 
-**Tools:** R · Seurat v5 · SCTransform · RPCA
+**Tools:** R · Seurat v5 · SCTransform · Harmony
 
 ### 2. Multi-Dataset Transcriptomic Meta-Analysis and Structural Modeling of SERD Effects in ER-Positive Breast Cancer
 
