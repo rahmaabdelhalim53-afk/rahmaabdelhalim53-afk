@@ -21,17 +21,18 @@ models, with growing interests in cancer pharmacogenomics and molecular docking.
 
 # 🧬 Selected Research Projects
 
-Single-Cell Transcriptomic Analysis of Neurodevelopmental and Disease Models
+-Single-Cell Transcriptomics: Glioblastoma and Cerebral Organoid Models | Ongoing
 
 > Analyzing 200,000+ cells from NDG and ASD models in Seurat v5, including QC, SCTransform,
 dimensionality reduction, clustering, and RPCA-based integration.
 **Tools:** R · Seurat v5 · SCTransform · RPCA 
 
-ERα–SERD Structural & Pharmacogenomic Investigation
+-Multi-Dataset Transcriptomic Meta-Analysis and Structural Modeling of SERD Effects in ER-Positive Breast Cancer
+Collaborative computational cancer biology research | 2026
 
-> R-based transcriptomic and genomic analysis of ESR1-mutant ER-positive breast cancer,
-investigating treatment-associated molecular changes.
-Tools:R · Transcriptomics · Pharmacogenomics
+> Contributed to comprehensive analysis of three independent public transcriptomic datasets (178 samples; 45 prespecified contrasts) spanning endocrine-sensitive and endocrine-resistant breast cancer models and patient-derived xenografts to identify shared and drug-specific SERD response signatures.
+Engaged in multi-stage analysis pipeline incorporating differential-expression analysis, pathway enrichment evaluation, and cross-dataset concordance assessment to characterize drug-response mechanisms.
+Generated publication-quality scientific figures and schematic representations using BioRender.  
 
 # 🛠 Technical Toolkit
 
