@@ -1,57 +1,79 @@
 # Rahma Abdelhalim
 
-Molecular Biology & Bioinformatics Researcher 
+### Molecular Biology & Bioinformatics Researcher
 
-Single-Cell Genomics | Neuro Bioinformatics | Cancer Biology
+**Single-Cell Genomics | Neuro Bioinformatics | Cancer Biology**
 
-I'm a biotechnology graduate (Pre-MSc, Cairo University) with research experience spanning
-molecular biology, cancer biology, and transcriptomic analysis. I'm interested in using
-single-cell genomics and computational tools to understand disease-related molecular
-mechanisms in the nervous system.
+I'm a biotechnology graduate with pre-master's training in Biotechnology at Cairo University and research experience spanning molecular biology, cancer biology, and transcriptomic analysis. I'm interested in using single-cell genomics and computational tools to understand disease-related molecular mechanisms in the nervous system.
 
-My current work focuses on single-cell transcriptomics of neurodevelopmental and disease
-models, with growing interests in cancer pharmacogenomics and molecular docking.
+My current work focuses on single-cell transcriptomics of glioblastoma and cerebral organoid models, with growing interests in cancer pharmacogenomics and molecular docking.
 
-# 🔬 Research Interests
+---
 
-- C Neuro Bioinformatics 
-- Molecular biology & cancer biology
+## 🔬 Research Interests
+
+- Neuro-bioinformatics
+- Molecular biology and cancer biology
 - Single-cell genomics (scRNA-seq)
 
+---
 
-# 🧬 Selected Research Projects
+## 🧬 Selected Research Projects
 
--Single-Cell Transcriptomics: Glioblastoma and Cerebral Organoid Models | Ongoing
+### 1. Single-Cell Transcriptomics: Glioblastoma and Cerebral Organoid Models
 
-> Analyzing 200,000+ cells from NDG and ASD models in Seurat v5, including QC, SCTransform,
-dimensionality reduction, clustering, and RPCA-based integration.
-**Tools:** R · Seurat v5 · SCTransform · RPCA 
+**Status:** Ongoing
 
--Multi-Dataset Transcriptomic Meta-Analysis and Structural Modeling of SERD Effects in ER-Positive Breast Cancer
-Collaborative computational cancer biology research | 2026
+Analyzing public single-cell transcriptomic datasets comprising more than 200,000 cells, with a focus on cellular heterogeneity and disease-associated transcriptional patterns.
 
-> Contributed to comprehensive analysis of three independent public transcriptomic datasets (178 samples; 45 prespecified contrasts) spanning endocrine-sensitive and endocrine-resistant breast cancer models and patient-derived xenografts to identify shared and drug-specific SERD response signatures.
-Engaged in multi-stage analysis pipeline incorporating differential-expression analysis, pathway enrichment evaluation, and cross-dataset concordance assessment to characterize drug-response mechanisms.
-Generated publication-quality scientific figures and schematic representations using BioRender.  
+**Analysis workflow:**
+- Metadata validation and cell-level quality control
+- SCTransform normalization
+- Dimensionality reduction and UMAP visualization
+- Graph-based clustering
+- RPCA-based dataset integration
+- Marker-gene analysis and preliminary cell-type annotation
 
-# 🛠 Technical Toolkit
+**Tools:** R · Seurat v5 · SCTransform · RPCA
 
-Programming: R · Python (basic) · Linux/Bash (basic)
+### 2. Multi-Dataset Transcriptomic Meta-Analysis and Structural Modeling of SERD Effects in ER-Positive Breast Cancer
 
-Single-Cell & Omics: Seurat v5 · Harmony · InferCNV · CytoTRACE · scRNA-seq · RNA-seq
+**Collaborative Computational Cancer Biology Research | 2026**
 
-Molecular Biology: PCR · qPCR · DNA/RNA extraction · Gel electrophoresis · Cell culture
+Contributed to the analysis of three independent public transcriptomic datasets comprising 178 samples and 45 prespecified contrasts across endocrine-sensitive and endocrine-resistant breast cancer models and patient-derived xenografts.
 
-Other: Statistical analysis · Data visualization
+The project investigates shared and drug-specific transcriptional responses to selective estrogen receptor degraders (SERDs).
 
-# 🎯 Current Focus
+**Research contributions:**
+- Contributed to transcriptomic analysis and cross-dataset comparisons.
+- Participated in evaluating differential-expression patterns and pathway-level responses.
+- Generated scientific figures and BioRender schematics to communicate research findings.
 
-I'm currently developing reproducible single-cell analysis workflows for neurodevelopmental
-disease models, and building foundational skills in molecular docking.
+---
 
-# 📫 Connect With Me
+## 🛠 Technical Toolkit
 
-LinkedIn: Rahma Abdelhalim.
+**Programming:** R · Python (Basic) · Linux/Bash (Basic)
 
-Email: rahmaabdelhalim53@gmail.com
+**Single-Cell & Omics:** Seurat v5 · Harmony · InferCNV · CytoTRACE · scRNA-seq · RNA-seq
+
+**Molecular Biology:** PCR · qPCR · DNA/RNA extraction · Gel electrophoresis · Cell culture
+
+**Other Skills:** Statistical analysis · Data visualization · BioRender
+
+---
+
+## 🎯 Current Focus
+
+- Developing reproducible single-cell analysis workflows for neuroscience and disease models.
+- Strengthening skills in transcriptomic analysis and biological interpretation.
+- Building foundational knowledge in molecular docking and structure-based analysis.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Rahma Abdelhalim](https://www.linkedin.com/in/rahma-abdelhalim-78475b205)
+- **Email:** [rahmaabdelhalim53@gmail.com](mailto:rahmaabdelhalim53@gmail.com)
+- **GitHub:** [rahmaabdelhalim53-afk](https://github.com/rahmaabdelhalim53-afk)
 
