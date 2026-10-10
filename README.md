@@ -4,7 +4,7 @@
 
 **Single-Cell Genomics | Neuro Bioinformatics | Cancer Biology**
 
-I'm a biotechnology graduate with pre-master's training in Biotechnology at Cairo University and research experience spanning molecular biology, cancer biology, and transcriptomic analysis. I'm interested in using single-cell genomics and computational tools to understand disease-related molecular mechanisms in the nervous system.
+I'm a biotechnology graduate with pre-master's degree in Biotechnology at Cairo University and research experience spanning molecular biology, cancer biology, and transcriptomic analysis. I'm interested in using single-cell genomics and computational tools to understand disease-related molecular mechanisms in the nervous system.
 
 My current work focuses on single-cell transcriptomics of glioblastoma and cerebral organoid models, with growing interests in cancer pharmacogenomics and molecular docking.
 
